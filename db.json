@@ -1,22 +1,10 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Terminar primer modulo de angular",
-      "day": "agosto 5 a las 12:00",
-      "reminder": false
-    },
-    {
-      "id": 2,
-      "text": "Hacer las compras para cena",
-      "day": "agosto 5 a las 17:00",
-      "reminder": false
-    },
-    {
-      "id": 3,
-      "text": "Investigar sobre boostrap",
-      "day": "agosto 5 a las 19:00",
-      "reminder": false
+      "text": "nueva tarea",
+      "day": "lunes 13hs",
+      "reminder": true,
+      "id": 1
     }
   ]
 }
